@@ -1,0 +1,22 @@
+{
+  "name": "test_bundle",
+  "version": "1.0.0",
+  "description": "For the purpose of testing git bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouhsine786/test_bundle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouhsine786/test_bundle/issues"
+  },
+  "homepage": "https://github.com/mouhsine786/test_bundle#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

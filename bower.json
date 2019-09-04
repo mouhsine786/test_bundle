@@ -1,0 +1,17 @@
+{
+  "name": "test_bundle",
+  "description": "For the purpose of testing git bundle",
+  "main": "index.js",
+  "authors": [
+    "Mouhsine Rohoman"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mouhsine786/test_bundle",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
